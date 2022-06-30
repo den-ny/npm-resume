@@ -1,0 +1,14 @@
+{
+  "name": "den-ny_resume",
+  "version": "1.0.0",
+  "description": "resume info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "denny",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
